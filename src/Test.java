@@ -18,7 +18,7 @@ public class Test {
 	System.out.printf("%s|", binaryPadded);
 	System.out.printf("%10.2f|", b);
 	System.out.printf("%-10.3f|", c);
-		
+		//WTF
 
 	}
 
